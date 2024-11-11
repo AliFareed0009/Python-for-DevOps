@@ -1,25 +1,21 @@
 # Python-for-DevOps
 
 
-# This Repository is for Linux commands use in DevOps 
+# This Repository is for Python Programming use in DevOps 
 
-The commands in this Repository are use in daily life of a DevOps engineer. Anyone who wants to become a DevOps engineer should know and prctice these commands, these commands are asked frequently in interviews
+The commands in this Repository are use in daily life of a DevOps engineer. Anyone who wants to become a DevOps engineer should know and practice these Programs, these programs are asked frequently in interviews
 
 
 ## The Commands include in this Repository are
 
-- Basic Level Commands
-- Compression / DeCompression Commands
-- File Permission Commands
-- File Transfer Commands
-- Login Related Commands
-- Networking Related Commands
-- System Level Commands
-- User Management Commands
+- Basic of Coding
+- Essential Python Syntax and Concepts
+- Automating Tasks with Python Scripts
+- Python Libraries for DevOps
+- Handling Files and Data Streams
+- Python for Cloud and Infrastructure
 
-
-
-## Files and there Commands
+## Files and there Useages
 
 #### 
 
