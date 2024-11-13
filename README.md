@@ -12,7 +12,7 @@ The commands in this Repository are use in daily life of a DevOps engineer. Anyo
 - Essential Python Syntax and Concepts
 - Automating Tasks with Python Scripts
 - Python Libraries for DevOps
-- Handling Files and Data Streams
+- Handling Files and Data Structures
 - Python for Cloud and Infrastructure
 
 ## Files and there Useages
@@ -21,15 +21,16 @@ The commands in this Repository are use in daily life of a DevOps engineer. Anyo
 
 | File Name | Commands Use     | Description                       |
 | :-------- | :------- | :-------------------------------- |
-| `Basic_Level_commands.txt` | `Basic ` | Basic Commands |
-| `Compression_commands.txt` | `Compress / De-Compress` | Compress Commands |
-| `File_Permission.txt` | `Modification` | File Modification Commands |
-| `File_Transfer.txt` | `Transfer` | Transfers Files Commands |
-| `Login_related_commands.txt` | `Space Usage` | Disk Space Commands |
-| `Networking_commands.txt` | `Networking` |  Trouble Shouting Commands |
-| `System_Level_commands.txt` | `System` | System Commands |
-| `User_Maagement.txt` | `Users` | User Maagement Commands |
-| `awk_sed_grep.txt` | `Pro Level` | AWK , GREP, SED |
+| `Build_In_Functions.py` | `Basic ` | For Build in Functions |
+| `Calculator_IF_Else.py` | `Calculator` | A Calculator with if else Conditions |
+| `Calculator.py` | `Calculator` | A simple Calculator |
+| `Conditions.py` | `IF_ElIF_ELSE` | IF_Else Statement |
+| `Functions.py` | `Functions` | Use the code multiple times |
+| `Lists.py` | `Arrays` |  Saving multiple data type in one variable  |
+| `Loops.py` | `Loop` | Iterating a program |
+| `s3_bucket` | `AWS` | Creating a s3 bucket |
+| `terraform_automation.py` | `Infrastructure as a Code` | Creating AWS resource with terraform |
+| `utils.py` | `System library` | Using a python library to fetch system information |
 
 
 
