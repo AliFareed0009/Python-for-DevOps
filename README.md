@@ -19,6 +19,14 @@ The commands in this Repository are use in daily life of a DevOps engineer. Anyo
 
 #### 
 
+| Folder Name | Useages     | Description                       |
+| :-------- | :------- | :-------------------------------- |
+| `Backup_Folder` | `Backup File ` | A tar zip file converted from backup.py |
+| `Modules` | `Re-Use` | To import a file contents in another |
+| `Operators` | `Mathematical Oeprators` | Operators used in calculations |
+| `Terraform` | `IaC` | Creating resources from python scripts by integrating Terraform |
+
+
 | File Name | Commands Use     | Description                       |
 | :-------- | :------- | :-------------------------------- |
 | `Build_In_Functions.py` | `Basic ` | For Build in Functions |
@@ -31,6 +39,8 @@ The commands in this Repository are use in daily life of a DevOps engineer. Anyo
 | `s3_bucket` | `AWS` | Creating a s3 bucket |
 | `terraform_automation.py` | `Infrastructure as a Code` | Creating AWS resource with terraform |
 | `utils.py` | `System library` | Using a python library to fetch system information |
+
+
 
 
 
