@@ -15,7 +15,7 @@ The commands in this Repository are use in daily life of a DevOps engineer. Anyo
 - Handling Files and Data Structures
 - Python for Cloud and Infrastructure
 
-## Files and there Useages
+## Folders
 
 #### 
 
@@ -26,6 +26,9 @@ The commands in this Repository are use in daily life of a DevOps engineer. Anyo
 | `Operators` | `Mathematical Oeprators` | Operators used in calculations |
 | `Terraform` | `IaC` | Creating resources from python scripts by integrating Terraform |
 
+## Files and there Useage
+
+#### 
 
 | File Name | Commands Use     | Description                       |
 | :-------- | :------- | :-------------------------------- |
